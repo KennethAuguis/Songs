@@ -1,0 +1,37 @@
+{
+    "song1" : {
+       "song" : "How you like that",
+       "artist" : "BLACKPINK",
+       "genre" : "K-POP",
+       "link": "https://www.youtube.com/watch?v=32si5cfrCNc&list=RDPTOFEgJ9zzI&index=11"
+    },
+    
+    "song2" : {
+        "song" : "S-class",
+        "artist" : "Stray Kids",
+        "genre" : "K-POP",
+        "link": "https://www.youtube.com/watch?v=JsOOis4bBFg"
+     },
+    
+     "song3" : {
+        "song" : "CASE 143",
+        "artist" : "Stray Kids",
+        "genre" : "K-POP",
+        "link": "https://www.youtube.com/watch?v=jYSlpC6Ud2A"
+     },
+
+     "song4" : {
+        "song" : "Masterpiece",
+        "artist" : "Jessie J",
+        "genre" : "POP",
+        "link": "https://www.youtube.com/watch?v=PTOFEgJ9zzI"
+     },
+
+     "song5" : {
+        "song" : "WANNABE",
+        "artist" : "ITZY",
+        "genre" : "K-POP",
+        "link": "https://www.youtube.com/watch?v=Vp9I_m6znMM&list=RDMM&start_radio=1&rv=PTOFEgJ9zzI"
+     }
+     
+ }
